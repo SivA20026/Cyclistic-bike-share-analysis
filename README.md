@@ -6,7 +6,7 @@ Data Analysis of Cyclistic-Bike Share company user data.
 ![image](https://github.com/SivA20026/Data_analysis_projects/assets/137447479/dbd39518-eb20-4d27-9d94-26ead17e1b90)
 ![image](https://github.com/SivA20026/Data_analysis_projects/assets/137447479/29e3c14c-b0a7-49b2-b784-a0adf4402bff)
 ![image](https://github.com/SivA20026/Data_analysis_projects/assets/137447479/31583710-23e7-4b96-ad2c-36c07a54fd1b)
-![image](https://github.com/SivA20026/Data_analysis_projects/assets/137447479/e263f56a-0793-444f-a317-47c72a8ddb88)
+
 ![image](https://github.com/SivA20026/Data_analysis_projects/assets/137447479/05fc729a-26b6-4dce-a13e-3681dcdb43d8)
 ![image](https://github.com/SivA20026/Data_analysis_projects/assets/137447479/27407d6c-6a8e-4fb4-992c-e90fa5a64862)
 ![image](https://github.com/SivA20026/Data_analysis_projects/assets/137447479/a7dd68c5-b92a-455a-be44-af2ab2f24c7e)
